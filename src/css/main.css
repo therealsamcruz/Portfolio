@@ -1,0 +1,55 @@
+body{
+  background-color:#C6CAED;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+ nav{
+   font-weight: bold
+        }
+
+#first {
+  background-color: #bffbff;
+  height: 500px;
+  width:500px;
+  margin: auto;
+  border-radius: 400px;}
+.self{
+      width: 540px;
+      height:280px;
+}
+
+.section { height: 100vh; }
+
+#second {
+  background-color: #ffffff;
+  height:1300px;
+  border-radius: 5px;
+}
+img{
+      width: 550px;
+      height:300px;
+}
+#third {
+  height:780px;
+}
+
+.projects{
+  width: 80%;
+  border: 1px;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+   padding: 15px;
+  text-align: center;
+}
+tr:nth-child(even) {background-color: #bffbff;}
+tr:nth-child(odd) {background-color: #e6ffee;}
+
+#fourth {
+  background-color: #C6CAED;
+  height:380px;
+  width: 300px;
+  border-radius: 5px;
+  margin: auto;
+}
